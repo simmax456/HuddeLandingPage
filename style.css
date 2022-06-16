@@ -216,6 +216,9 @@ footer .logo {
     border-radius: 50%;
 }
 
+.fa-brands.fa-facebook-f { padding: 5px 7.5px; }
+.fa-brands.fa-instagram { padding: 5px 6px; }
+
 .fa-brands:hover {
     color: var(--pink);
     border-color: var(--pink);
