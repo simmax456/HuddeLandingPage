@@ -421,10 +421,10 @@ footer .logo {
     .info p { font-size: 80%;}
 
     .cards {padding: 3rem;}
-    .card {
+/*     .card {
         padding: 4rem;
         gap: 2rem;
-    }
+    } */
 
     footer {padding: 3rem;}
     footer .logo { margin-top: 8rem; }
